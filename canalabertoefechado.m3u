@@ -3,4 +3,7 @@
 #EXTINF:-1 tvg-id="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canal Aberto", Rede Globo Nacional
 http://104.236.151.89/loadbalance/bobsp/loadbalance/slv9_480p/chunks.m3u8?pxAuth=rEifcvS31xhOf84hspURhacFVbDAkgGV
 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAL ABERTO",GLOBO
+http://107.182.231.88:1935/liverepeater/ch21-1/live.m3u8
+
 
