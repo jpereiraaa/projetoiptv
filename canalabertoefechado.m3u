@@ -1,12 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canal Aberto", Rede Globo Nacional
-http://104.236.151.89/loadbalance/bobsp/loadbalance/slv9_480p/chunks.m3u8?pxAuth=rEifcvS31xhOf84hspURhacFVbDAkgGV
+http://188.166.79.130/loadbalance2/boborj/chunks.m3u8?pxAuth=xAUTuCklqU7uqw7h4Hz3KnelTaX30ZQ6
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="Canal Aberto",GLOBO
-http://107.182.231.88:1935/liverepeater/ch21-1/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="Canal Aberto",GLOBO teste
-http://95.211.149.215:8081/look/globo/playlist.m3u8
+#EXTINF:-1 tvg-id="Rede Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canal Aberto", Rede Globo-SP
+http://198.199.80.96/loadbalance/bobsp/loadbalance/slv9_480p/chunks.m3u8?pxAuth=bUW0qLG8UsnxaejdJ0N76nzvCu0gnJNP
 
 
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="Canal Aberto", SBT Nacional
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-record-logo.jpg" group-title="Canal Aberto", Record Nacional
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-record-logo.jpg" group-title="Canal Aberto", Record-PA
+https://livestream-f.akamaihd.net/i/21076186_6180705_lsiyqhbxzh8q7vg35s0_1@305414/index_446_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1495463038~acl=%2fi%2f21076186_6180705_lsiyqhbxzh8q7vg35s0_1%40305414%2f*~data=hdntl~hmac=7b0221794b414885a5bd39acb1d73f355434113af6c8f1111982ed215c3823e9
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="Canal Aberto", Band Nacional
+http://138.197.106.165/loadbalance/agua1/chunks.m3u8?pxAuth=UD8BYfg1X2zYAmvBIYx5pafsU3bU9pWM
+
+
+#EXTINF:-1 tvg-id="Cultura" tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112162323-canal-tv-cultura.png" group-title="Canal Aberto", Cultura Nacional
+http://static.content1req.com/templates/_assets/sounds/blip1/default.mp3
