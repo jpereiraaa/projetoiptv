@@ -6,7 +6,7 @@ http://104.236.151.89/loadbalance/bobsp/loadbalance/slv9_480p/chunks.m3u8?pxAuth
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="Canal Aberto",GLOBO
 http://107.182.231.88:1935/liverepeater/ch21-1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="Canal Aberto",GLOBO
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="Canal Aberto",GLOBO teste
 http://95.211.149.215:8081/look/globo/playlist.m3u8
 
 
