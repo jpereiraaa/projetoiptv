@@ -1,24 +1,21 @@
 #EXTM3U
-
-# 1 temporada #
-
-#EXTINF:-1 tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E1 
+#EXTINF:-1,T1E1 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP01.mp4
-#EXTINF:-1 tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E2 
+#EXTINF:-1,T1E2 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP02.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E3 
+#EXTINF:-1,T1E3 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP03.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E4 
+#EXTINF:-1,T1E4 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP04.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E5 
+#EXTINF:-1,T1E5 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP05.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E6 
+#EXTINF:-1,T1E6 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP06.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E7 
+#EXTINF:-1,T1E7 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP07.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E8 
+#EXTINF:-1,T1E8 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP08.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E9 
+#EXTINF:-1,T1E9 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP09.mp4
-#EXTINF:-1tvg-id="Game Of Thrones - 1º temporada" tvg-logo="https://images-soubarato.b2w.io/produtos/01/00/item/110752/1/110752115_2GG.jpg" group-title="ação",T1E10 
+#EXTINF:-1,T1E10 
 http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP10.mp4
