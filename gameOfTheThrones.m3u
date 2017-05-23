@@ -1,21 +1,141 @@
 #EXTM3U
-#EXTINF:-1,T1E1 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP01.mp4
-#EXTINF:-1,T1E2 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP02.mp4
-#EXTINF:-1,T1E3 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP03.mp4
-#EXTINF:-1,T1E4 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP04.mp4
-#EXTINF:-1,T1E5 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP05.mp4
-#EXTINF:-1,T1E6 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP06.mp4
-#EXTINF:-1,T1E7 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP07.mp4
-#EXTINF:-1,T1E8 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP08.mp4
-#EXTINF:-1,T1E9 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP09.mp4
-#EXTINF:-1,T1E10 
-http://rc.lella.la/vd/dd/RC/RCServer01/videos/GMOFTRT01EP10.mp4
+
+# 1 temporada #
+#EXTINF:-1,T1E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP01.mp4
+#EXTINF:-1,T1E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP02.mp4
+#EXTINF:-1,T1E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP03.mp4
+#EXTINF:-1,T1E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP04.mp4
+#EXTINF:-1,T1E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP05.mp4
+#EXTINF:-1,T1E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP06.mp4
+#EXTINF:-1,T1E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP07.mp4
+#EXTINF:-1,T1E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP08.mp4
+#EXTINF:-1,T1E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP09.mp4
+#EXTINF:-1,T1E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT01EP10.mp4
+
+
+# 2 temporada #
+
+#EXTINF:-1,T2E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP01.mp4
+#EXTINF:-1,T2E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP02.mp4
+#EXTINF:-1,T2E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP03.mp4
+#EXTINF:-1,T2E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP04.mp4
+#EXTINF:-1,T2E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP05.mp4
+#EXTINF:-1,T2E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP06.mp4
+#EXTINF:-1,T2E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP07.mp4
+#EXTINF:-1,T2E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP08.mp4
+#EXTINF:-1,T2E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP09.mp4
+#EXTINF:-1,T2E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GMOFTRT02EP10.mp4
+
+
+# 3 temporada #
+
+#EXTINF:-1,T3E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GMOFTRT03EP01.mp4
+#EXTINF:-1,T3E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GMOFTRT03EP02.mp4
+#EXTINF:-1,T3E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GMOFTRT03EP03.mp4
+#EXTINF:-1,T3E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GMOFTRT03EP04.mp4
+#EXTINF:-1,T3E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GMOFTRT03EP05.mp4
+#EXTINF:-1,T3E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/GMOFTRT03EP06.mp4
+#EXTINF:-1,T3E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/GMOFTRT03EP07.mp4
+#EXTINF:-1,T3E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/GMOFTRT03EP08.mp4
+#EXTINF:-1,T3E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/GMOFTRT03EP09.mp4
+#EXTINF:-1,T3E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer05/ondemand/GMOFTRT03EP10.mp4
+
+# 4 temporada #
+
+#EXTINF:-1,T4E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP01.mp4
+#EXTINF:-1,T4E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP02.mp4
+#EXTINF:-1,T4E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP03.mp4
+#EXTINF:-1,T4E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP04.mp4
+#EXTINF:-1,T4E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP05.mp4
+#EXTINF:-1,T4E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/GMOFTRS04EP06.mp4
+#EXTINF:-1,T4E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP07.mp4
+#EXTINF:-1,T4E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/GMOFTRS04EP08.mp4
+#EXTINF:-1,T4E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP09.mp4
+#EXTINF:-1,T4E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer07/ondemand/GMOFTRS04EP10.mp4
+
+
+# 5 temporada #
+
+#EXTINF:-1,T5E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP01.mp4
+#EXTINF:-1,T5E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP02.mp4
+#EXTINF:-1,T5E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP03.mp4
+#EXTINF:-1,T5E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP04.mp4
+#EXTINF:-1,T5E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP05.mp4
+#EXTINF:-1,T5E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP06.mp4
+#EXTINF:-1,T5E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP07.mp4
+#EXTINF:-1,T5E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP08.mp4
+#EXTINF:-1,T5E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP09.mp4
+#EXTINF:-1,T5E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GMOFTRT05EP10.mp4
+
+# 6 temporada #
+
+#EXTINF:-1,T6E1 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP01.mp4
+#EXTINF:-1,T6E2 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP02.mp4
+#EXTINF:-1,T6E3 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP03.mp4
+#EXTINF:-1,T6E4 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP04.mp4
+#EXTINF:-1,T6E5 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP05.mp4
+#EXTINF:-1,T6E6 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP06.mp4
+#EXTINF:-1,T6E7 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP07.mp4
+#EXTINF:-1,T6E8 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP08.mp4
+#EXTINF:-1,T6E9 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP09.mp4
+#EXTINF:-1,T6E10 []
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GMOFTRT06EP10.mp4
