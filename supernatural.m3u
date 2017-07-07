@@ -845,3 +845,6 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WARCRFT.mp4
 
 #EXTINF:-1 tvg-id="como eu era antes de voce" tvg-logo="" group-title="terror",  como eu era antes de você
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4
+
+#EXTINF:-1 tvg-id="A visita" tvg-logo="" group-title="terror",  A visita
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AVISTA.mp4
